@@ -1,0 +1,373 @@
+Customer 1 arrived at 0.02
+Customer 2 arrived at 0.35
+Customer 3 arrived at 1.34
+Customer 2 finished at 4.53 after 4.19 time units (waited 0.00 units)
+Customer 4 arrived at 11.39
+Customer 1 finished at 20.55 after 20.53 time units (waited 0.00 units)
+Customer 4 finished at 20.92 after 9.53 time units (waited 0.00 units)
+Customer 5 arrived at 32.18
+Customer 5 finished at 36.01 after 3.83 time units (waited 0.00 units)
+Customer 6 arrived at 38.87
+Customer 3 finished at 40.79 after 39.46 time units (waited 0.00 units)
+Customer 7 arrived at 44.27
+Customer 6 finished at 44.45 after 5.57 time units (waited 0.00 units)
+Customer 8 arrived at 46.86
+Customer 9 arrived at 54.60
+Customer 10 arrived at 55.48
+Customer 7 finished at 57.34 after 13.06 time units (waited 0.00 units)
+Customer 11 arrived at 57.97
+Customer 12 arrived at 58.64
+Customer 13 arrived at 59.00
+Customer 9 finished at 59.65 after 5.04 time units (waited 0.00 units)
+Customer 14 arrived at 68.54
+Customer 10 finished at 69.00 after 11.66 time units (waited 1.86 units)
+Customer 11 finished at 70.92 after 11.28 time units (waited 1.67 units)
+Customer 15 arrived at 73.42
+Customer 16 arrived at 75.56
+Customer 17 arrived at 86.74
+Customer 8 finished at 88.14 after 41.28 time units (waited 0.00 units)
+Customer 13 finished at 88.53 after 17.61 time units (waited 11.93 units)
+Customer 18 arrived at 94.31
+Customer 14 finished at 95.91 after 7.77 time units (waited 19.60 units)
+Customer 16 finished at 97.11 after 1.20 time units (waited 20.35 units)
+Customer 17 finished at 102.35 after 5.25 time units (waited 10.37 units)
+Customer 18 finished at 102.47 after 0.12 time units (waited 8.04 units)
+Customer 12 finished at 106.53 after 37.53 time units (waited 10.36 units)
+Customer 19 arrived at 110.68
+Customer 20 arrived at 111.15
+Customer 15 finished at 116.54 after 28.01 time units (waited 15.11 units)
+Customer 20 finished at 117.69 after 6.54 time units (waited 0.00 units)
+Customer 21 arrived at 117.82
+Customer 19 finished at 122.57 after 11.89 time units (waited 0.00 units)
+Customer 22 arrived at 124.47
+Customer 23 arrived at 125.13
+Customer 22 finished at 133.31 after 8.84 time units (waited 0.00 units)
+Customer 24 arrived at 135.18
+Customer 21 finished at 137.72 after 19.90 time units (waited 0.00 units)
+Customer 25 arrived at 139.48
+Customer 24 finished at 140.78 after 5.60 time units (waited 0.00 units)
+Customer 23 finished at 142.74 after 17.61 time units (waited 0.00 units)
+Customer 26 arrived at 153.93
+Customer 26 finished at 154.55 after 0.62 time units (waited 0.00 units)
+Customer 27 arrived at 158.80
+Customer 25 finished at 162.15 after 22.67 time units (waited 0.00 units)
+Customer 27 finished at 162.38 after 3.58 time units (waited 0.00 units)
+Customer 28 arrived at 174.51
+Customer 28 finished at 178.43 after 3.92 time units (waited 0.00 units)
+Customer 29 arrived at 189.90
+Customer 30 arrived at 191.16
+Customer 31 arrived at 194.35
+Customer 32 arrived at 196.64
+Customer 29 finished at 197.60 after 7.70 time units (waited 0.00 units)
+Customer 31 finished at 204.43 after 10.09 time units (waited 0.00 units)
+Customer 30 finished at 214.71 after 23.55 time units (waited 0.00 units)
+Customer 32 finished at 221.71 after 24.11 time units (waited 0.96 units)
+Customer 33 arrived at 223.06
+Customer 34 arrived at 227.45
+Customer 35 arrived at 233.18
+Customer 36 arrived at 233.18
+Customer 34 finished at 233.65 after 6.20 time units (waited 0.00 units)
+Customer 35 finished at 233.92 after 0.75 time units (waited 0.00 units)
+Customer 37 arrived at 240.42
+Customer 36 finished at 241.33 after 7.67 time units (waited 0.47 units)
+Customer 37 finished at 244.61 after 4.19 time units (waited 0.00 units)
+Customer 33 finished at 246.75 after 23.69 time units (waited 0.00 units)
+Customer 38 arrived at 254.60
+Customer 38 finished at 258.37 after 3.77 time units (waited 0.00 units)
+Customer 39 arrived at 260.43
+Customer 40 arrived at 260.78
+Customer 41 arrived at 262.43
+Customer 39 finished at 262.72 after 2.28 time units (waited 0.00 units)
+Customer 40 finished at 263.31 after 2.53 time units (waited 0.00 units)
+Customer 42 arrived at 265.46
+Customer 43 arrived at 267.03
+Customer 42 finished at 271.10 after 5.65 time units (waited 0.00 units)
+Customer 44 arrived at 276.40
+Customer 43 finished at 277.49 after 10.46 time units (waited 0.00 units)
+Customer 41 finished at 278.65 after 16.22 time units (waited 0.00 units)
+Customer 44 finished at 281.64 after 5.25 time units (waited 0.00 units)
+Customer 45 arrived at 287.34
+Customer 46 arrived at 290.16
+Customer 45 finished at 292.16 after 4.82 time units (waited 0.00 units)
+Customer 47 arrived at 292.60
+Customer 48 arrived at 301.53
+Customer 46 finished at 301.59 after 11.43 time units (waited 0.00 units)
+Customer 48 finished at 301.92 after 0.40 time units (waited 0.00 units)
+Customer 47 finished at 304.77 after 12.17 time units (waited 0.00 units)
+Customer 49 arrived at 306.01
+Customer 50 arrived at 308.10
+Customer 49 finished at 311.24 after 5.23 time units (waited 0.00 units)
+Customer 50 finished at 312.11 after 4.02 time units (waited 0.00 units)
+Customer 51 arrived at 322.09
+Customer 52 arrived at 323.14
+Customer 53 arrived at 328.66
+Customer 54 arrived at 328.78
+Customer 53 finished at 328.87 after 0.21 time units (waited 0.00 units)
+Customer 55 arrived at 331.46
+Customer 51 finished at 332.90 after 10.81 time units (waited 0.00 units)
+Customer 55 finished at 336.59 after 3.69 time units (waited 1.44 units)
+Customer 52 finished at 337.68 after 14.54 time units (waited 0.00 units)
+Customer 54 finished at 339.50 after 10.63 time units (waited 0.09 units)
+Customer 56 arrived at 343.45
+Customer 57 arrived at 353.67
+Customer 57 finished at 355.84 after 2.17 time units (waited 0.00 units)
+Customer 56 finished at 358.65 after 15.20 time units (waited 0.00 units)
+Customer 58 arrived at 359.36
+Customer 59 arrived at 360.23
+Customer 60 arrived at 362.92
+Customer 61 arrived at 364.83
+Customer 62 arrived at 365.08
+Customer 58 finished at 367.52 after 8.16 time units (waited 0.00 units)
+Customer 61 finished at 367.67 after 0.14 time units (waited 2.69 units)
+Customer 63 arrived at 368.62
+Customer 60 finished at 368.83 after 5.91 time units (waited 0.00 units)
+Customer 63 finished at 372.85 after 4.02 time units (waited 0.21 units)
+Customer 64 arrived at 373.67
+Customer 65 arrived at 375.84
+Customer 62 finished at 376.06 after 8.39 time units (waited 2.59 units)
+Customer 59 finished at 378.10 after 17.87 time units (waited 0.00 units)
+Customer 66 arrived at 381.24
+Customer 67 arrived at 381.62
+Customer 65 finished at 382.01 after 5.95 time units (waited 0.22 units)
+Customer 67 finished at 384.40 after 2.39 time units (waited 0.39 units)
+Customer 64 finished at 384.87 after 11.20 time units (waited 0.00 units)
+Customer 66 finished at 392.92 after 11.68 time units (waited 0.00 units)
+Customer 68 arrived at 401.48
+Customer 69 arrived at 402.18
+Customer 69 finished at 404.75 after 2.57 time units (waited 0.00 units)
+Customer 70 arrived at 411.74
+Customer 71 arrived at 413.84
+Customer 72 arrived at 415.32
+Customer 73 arrived at 416.95
+Customer 74 arrived at 418.69
+Customer 71 finished at 420.48 after 6.63 time units (waited 0.00 units)
+Customer 75 arrived at 420.97
+Customer 76 arrived at 423.04
+Customer 77 arrived at 424.80
+Customer 78 arrived at 427.03
+Customer 79 arrived at 428.38
+Customer 80 arrived at 432.27
+Customer 70 finished at 436.75 after 25.01 time units (waited 0.00 units)
+Customer 68 finished at 438.79 after 37.31 time units (waited 0.00 units)
+Customer 81 arrived at 441.71
+Customer 73 finished at 444.45 after 7.69 time units (waited 19.80 units)
+Customer 82 arrived at 448.57
+Customer 83 arrived at 451.61
+Customer 84 arrived at 453.29
+Customer 74 finished at 454.41 after 15.62 time units (waited 20.10 units)
+Customer 85 arrived at 456.25
+Customer 75 finished at 457.39 after 12.95 time units (waited 23.48 units)
+Customer 72 finished at 464.30 after 43.82 time units (waited 5.16 units)
+Customer 77 finished at 468.10 after 10.71 time units (waited 32.59 units)
+Customer 76 finished at 473.89 after 19.48 time units (waited 31.37 units)
+Customer 78 finished at 475.82 after 11.53 time units (waited 37.27 units)
+Customer 81 finished at 475.97 after 0.15 time units (waited 34.11 units)
+Customer 80 finished at 476.10 after 2.21 time units (waited 41.62 units)
+Customer 79 finished at 477.53 after 9.43 time units (waited 39.72 units)
+Customer 84 finished at 477.91 after 0.38 time units (waited 24.24 units)
+Customer 83 finished at 478.37 after 2.27 time units (waited 24.49 units)
+Customer 86 arrived at 478.72
+Customer 82 finished at 478.83 after 2.86 time units (waited 27.40 units)
+Customer 87 arrived at 480.56
+Customer 85 finished at 482.06 after 4.16 time units (waited 21.66 units)
+Customer 88 arrived at 482.10
+Customer 88 finished at 484.27 after 2.18 time units (waited 0.00 units)
+Customer 89 arrived at 485.50
+Customer 89 finished at 487.47 after 1.97 time units (waited 0.00 units)
+Customer 87 finished at 488.71 after 8.15 time units (waited 0.00 units)
+Customer 90 arrived at 493.97
+Customer 86 finished at 499.78 after 21.07 time units (waited 0.00 units)
+Customer 90 finished at 505.18 after 11.22 time units (waited 0.00 units)
+Customer 91 arrived at 505.72
+Customer 92 arrived at 511.05
+Customer 91 finished at 514.77 after 9.06 time units (waited 0.00 units)
+Customer 93 arrived at 520.93
+Customer 93 finished at 524.90 after 3.96 time units (waited 0.00 units)
+Customer 94 arrived at 528.07
+Customer 95 arrived at 529.80
+Customer 92 finished at 530.84 after 19.79 time units (waited 0.00 units)
+Customer 95 finished at 532.51 after 2.71 time units (waited 0.00 units)
+Customer 96 arrived at 535.05
+Customer 97 arrived at 535.60
+Customer 94 finished at 535.63 after 7.56 time units (waited 0.00 units)
+Customer 96 finished at 537.64 after 2.59 time units (waited 0.00 units)
+Customer 98 arrived at 538.84
+Customer 99 arrived at 538.87
+Customer 100 arrived at 541.99
+Customer 101 arrived at 544.38
+Customer 102 arrived at 544.99
+Customer 103 arrived at 547.19
+Customer 104 arrived at 550.69
+Customer 105 arrived at 551.06
+Customer 99 finished at 551.76 after 12.89 time units (waited 0.00 units)
+Customer 106 arrived at 555.72
+Customer 107 arrived at 556.45
+Customer 108 arrived at 564.52
+Customer 97 finished at 567.15 after 31.55 time units (waited 0.00 units)
+Customer 98 finished at 570.84 after 31.99 time units (waited 0.00 units)
+Customer 100 finished at 571.68 after 19.92 time units (waited 9.77 units)
+Customer 101 finished at 571.94 after 4.79 time units (waited 22.77 units)
+Customer 104 finished at 582.72 after 10.78 time units (waited 21.25 units)
+Customer 105 finished at 583.40 after 0.67 time units (waited 31.66 units)
+Customer 102 finished at 589.28 after 18.45 time units (waited 25.85 units)
+Customer 109 arrived at 589.48
+Customer 103 finished at 591.03 after 19.35 time units (waited 24.49 units)
+Customer 110 arrived at 592.18
+Customer 111 arrived at 593.32
+Customer 107 finished at 594.51 after 5.23 time units (waited 32.84 units)
+Customer 112 arrived at 596.71
+Customer 113 arrived at 599.96
+Customer 109 finished at 601.84 after 7.33 time units (waited 5.03 units)
+Customer 114 arrived at 603.84
+Customer 108 finished at 604.03 after 12.99 time units (waited 26.51 units)
+Customer 111 finished at 611.80 after 7.77 time units (waited 10.71 units)
+Customer 110 finished at 613.71 after 11.86 time units (waited 9.66 units)
+Customer 113 finished at 614.08 after 0.37 time units (waited 13.74 units)
+Customer 115 arrived at 616.27
+Customer 112 finished at 618.38 after 6.58 time units (waited 15.09 units)
+Customer 106 finished at 619.59 after 36.19 time units (waited 27.68 units)
+Customer 116 arrived at 619.92
+Customer 115 finished at 621.97 after 3.58 time units (waited 2.11 units)
+Customer 114 finished at 627.89 after 13.81 time units (waited 10.24 units)
+Customer 117 arrived at 633.61
+Customer 116 finished at 634.66 after 14.74 time units (waited 0.00 units)
+Customer 118 arrived at 635.48
+Customer 118 finished at 643.81 after 8.32 time units (waited 0.00 units)
+Customer 119 arrived at 646.67
+Customer 119 finished at 647.92 after 1.25 time units (waited 0.00 units)
+Customer 117 finished at 652.25 after 18.64 time units (waited 0.00 units)
+Customer 120 arrived at 657.38
+Customer 121 arrived at 661.08
+Customer 122 arrived at 661.23
+Customer 123 arrived at 661.26
+Customer 124 arrived at 662.17
+Customer 120 finished at 664.21 after 6.83 time units (waited 0.00 units)
+Customer 122 finished at 665.51 after 4.29 time units (waited 0.00 units)
+Customer 123 finished at 668.91 after 4.70 time units (waited 2.96 units)
+Customer 124 finished at 669.59 after 4.07 time units (waited 3.34 units)
+Customer 125 arrived at 669.87
+Customer 125 finished at 677.39 after 7.52 time units (waited 0.00 units)
+Customer 126 arrived at 679.75
+Customer 126 finished at 683.76 after 4.01 time units (waited 0.00 units)
+Customer 127 arrived at 684.19
+Customer 121 finished at 690.60 after 29.53 time units (waited 0.00 units)
+Customer 128 arrived at 702.21
+Customer 127 finished at 706.08 after 21.89 time units (waited 0.00 units)
+Customer 128 finished at 708.10 after 5.90 time units (waited 0.00 units)
+Customer 129 arrived at 712.10
+Customer 130 arrived at 712.11
+Customer 131 arrived at 717.28
+Customer 129 finished at 721.42 after 9.32 time units (waited 0.00 units)
+Customer 131 finished at 722.92 after 5.64 time units (waited 0.00 units)
+Customer 130 finished at 730.65 after 18.55 time units (waited 0.00 units)
+Customer 132 arrived at 732.16
+Customer 133 arrived at 734.22
+Customer 134 arrived at 736.85
+Customer 134 finished at 737.40 after 0.55 time units (waited 0.00 units)
+Customer 132 finished at 738.62 after 6.46 time units (waited 0.00 units)
+Customer 135 arrived at 741.86
+Customer 133 finished at 742.13 after 7.91 time units (waited 0.00 units)
+Customer 136 arrived at 742.42
+Customer 136 finished at 742.60 after 0.18 time units (waited 0.00 units)
+Customer 135 finished at 749.25 after 7.39 time units (waited 0.00 units)
+Customer 137 arrived at 749.93
+Customer 138 arrived at 751.20
+Customer 139 arrived at 751.75
+Customer 137 finished at 753.41 after 3.48 time units (waited 0.00 units)
+Customer 140 arrived at 755.13
+Customer 141 arrived at 756.63
+Customer 142 arrived at 757.28
+Customer 140 finished at 759.86 after 4.73 time units (waited 0.00 units)
+Customer 141 finished at 765.13 after 5.27 time units (waited 3.24 units)
+Customer 143 arrived at 766.13
+Customer 138 finished at 767.80 after 16.60 time units (waited 0.00 units)
+Customer 144 arrived at 768.08
+Customer 142 finished at 769.53 after 4.39 time units (waited 7.86 units)
+Customer 145 arrived at 771.31
+Customer 146 arrived at 775.87
+Customer 143 finished at 777.76 after 9.96 time units (waited 1.67 units)
+Customer 144 finished at 779.64 after 10.11 time units (waited 1.45 units)
+Customer 147 arrived at 780.39
+Customer 139 finished at 780.59 after 28.84 time units (waited 0.00 units)
+Customer 148 arrived at 782.68
+Customer 145 finished at 782.93 after 5.17 time units (waited 6.45 units)
+Customer 148 finished at 782.99 after 0.06 time units (waited 0.25 units)
+Customer 149 arrived at 784.91
+Customer 147 finished at 788.10 after 7.51 time units (waited 0.20 units)
+Customer 146 finished at 789.91 after 10.27 time units (waited 3.77 units)
+Customer 149 finished at 789.95 after 5.04 time units (waited 0.00 units)
+Customer 150 arrived at 796.62
+Customer 150 finished at 797.77 after 1.16 time units (waited 0.00 units)
+Customer 151 arrived at 798.11
+Customer 151 finished at 799.11 after 1.00 time units (waited 0.00 units)
+Customer 152 arrived at 803.46
+Customer 153 arrived at 805.69
+Customer 153 finished at 806.12 after 0.43 time units (waited 0.00 units)
+Customer 154 arrived at 808.93
+Customer 154 finished at 812.77 after 3.85 time units (waited 0.00 units)
+Customer 155 arrived at 816.90
+Customer 152 finished at 818.97 after 15.50 time units (waited 0.00 units)
+Customer 156 arrived at 819.22
+Customer 157 arrived at 820.55
+Customer 156 finished at 821.27 after 2.05 time units (waited 0.00 units)
+Customer 157 finished at 832.39 after 11.84 time units (waited 0.00 units)
+Customer 155 finished at 835.01 after 18.12 time units (waited 0.00 units)
+Customer 158 arrived at 849.34
+Customer 158 finished at 853.55 after 4.22 time units (waited 0.00 units)
+Customer 159 arrived at 856.10
+Customer 160 arrived at 871.42
+Customer 161 arrived at 871.64
+Customer 160 finished at 871.76 after 0.34 time units (waited 0.00 units)
+Customer 159 finished at 875.63 after 19.52 time units (waited 0.00 units)
+Customer 162 arrived at 879.97
+Customer 163 arrived at 880.85
+Customer 164 arrived at 881.99
+Customer 165 arrived at 883.68
+Customer 166 arrived at 890.08
+Customer 167 arrived at 894.10
+Customer 162 finished at 898.83 after 18.86 time units (waited 0.00 units)
+Customer 164 finished at 901.79 after 2.97 time units (waited 16.83 units)
+Customer 168 arrived at 908.75
+Customer 165 finished at 914.29 after 12.49 time units (waited 18.11 units)
+Customer 166 finished at 916.58 after 2.30 time units (waited 24.20 units)
+Customer 169 arrived at 917.34
+Customer 170 arrived at 922.90
+Customer 161 finished at 923.52 after 51.88 time units (waited 0.00 units)
+Customer 171 arrived at 924.91
+Customer 163 finished at 934.11 after 53.26 time units (waited 0.00 units)
+Customer 167 finished at 936.97 after 20.38 time units (waited 22.49 units)
+Customer 168 finished at 937.85 after 14.33 time units (waited 14.76 units)
+Customer 170 finished at 939.28 after 2.32 time units (waited 14.07 units)
+Customer 172 arrived at 941.25
+Customer 169 finished at 943.78 after 9.67 time units (waited 16.76 units)
+Customer 171 finished at 944.93 after 7.08 time units (waited 12.94 units)
+Customer 173 arrived at 946.74
+Customer 174 arrived at 948.99
+Customer 172 finished at 949.26 after 8.01 time units (waited 0.00 units)
+Customer 173 finished at 953.81 after 7.07 time units (waited 0.00 units)
+Customer 175 arrived at 954.38
+Customer 176 arrived at 954.75
+Customer 175 finished at 960.73 after 6.35 time units (waited 0.00 units)
+Customer 177 arrived at 965.25
+Customer 177 finished at 967.81 after 2.56 time units (waited 0.00 units)
+Customer 176 finished at 968.89 after 14.14 time units (waited 0.00 units)
+Customer 174 finished at 969.24 after 20.26 time units (waited 0.00 units)
+Customer 178 arrived at 970.87
+Customer 179 arrived at 974.79
+Customer 179 finished at 981.50 after 6.71 time units (waited 0.00 units)
+Customer 180 arrived at 982.94
+Customer 181 arrived at 985.43
+Customer 180 finished at 985.71 after 2.77 time units (waited 0.00 units)
+Customer 178 finished at 987.52 after 16.66 time units (waited 0.00 units)
+Customer 181 finished at 987.67 after 2.24 time units (waited 0.00 units)
+Customer 182 arrived at 987.70
+Customer 182 finished at 991.05 after 3.35 time units (waited 0.00 units)
+Customer 183 arrived at 993.86
+Customer 184 arrived at 994.77
+Customer 183 finished at 995.43 after 1.57 time units (waited 0.00 units)
+Customer 184 finished at 995.99 after 1.22 time units (waited 0.00 units)
+Customer 185 arrived at 999.61
+
+Simulation Results:
+Average Waiting Time: 5.17 time units
+System Utilization: 63.87%
