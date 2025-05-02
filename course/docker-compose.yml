@@ -1,0 +1,52 @@
+version: '3.8'
+
+services:
+  postgres:
+    image: postgres:latest
+    container_name: postgres-server
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: Test99
+      POSTGRES_DB: mydb
+    volumes:
+      - postgres-data:/var/lib/postgresql/data
+      - ./data:/data
+    ports:
+      - "5432:5432"
+    networks:
+      - pg-network
+
+  pgadmin:
+    image: dpage/pgadmin4:latest
+    container_name: pgadmin
+    environment:
+      PGADMIN_DEFAULT_EMAIL: speenuch@gmail.com
+      PGADMIN_DEFAULT_PASSWORD: Test99
+    volumes:
+      - pgadmin-data:/var/lib/pgadmin
+    ports:
+      - "8081:80"
+    networks:
+      - pg-network
+    depends_on:
+      - postgres
+
+  python-etl:
+    image: python:3.11
+    container_name: python-etl
+    volumes:
+      - ./etl_scripts:/app
+    working_dir: /app
+    command: >
+      bash -c "pip install -r requirements.txt && python etl_sales.py"
+    networks:
+      - pg-network
+    depends_on:
+      - postgres
+
+volumes:
+  postgres-data:
+  pgadmin-data:
+
+networks:
+  pg-network:
